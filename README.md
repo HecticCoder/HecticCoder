@@ -2,7 +2,7 @@
 
 🚀 **Sofware Developer | Full Stack Developer**
 
-I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Reactm, MongoDB, and Firebase**. I specialize in **Full Stack development**.
+I'm a passionate developer with expertise in **TypeScript, Node.js, Express, React, MongoDB, and Firebase**. I specialize in **Full Stack development**.
 
 ---
 
