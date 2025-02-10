@@ -2,7 +2,7 @@
 
 🚀 **Sofware Developer | Full Stack Developer**
 
-I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Reactm, MongoDB, and Firebase**. I specialize in **Full Stack development**. Currently, I'm exploring **multi-agent orchestration with Langraph**
+I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Reactm, MongoDB, and Firebase**. I specialize in **Full Stack development**.**
 
 ---
 
