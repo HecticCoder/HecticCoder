@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Aakash
+# Hello..
 
 🚀 **Sofware Developer | Full Stack Developer**
 
-I'm a passionate developer with expertise in **TypeScript, Node.js, Express, MongoDB, and Firebase**. I specialize in **backend development, cloud functions, and data-driven applications**. Currently, I'm exploring **multi-agent orchestration with Langraph** and enhancing my **DSA skills in TypeScript**.
+I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Reactm, MongoDB, and Firebase**. I specialize in **Full Stack development**. Currently, I'm exploring **multi-agent orchestration with Langraph**
 
 ---
 
@@ -17,17 +17,9 @@ I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Mon
 
 ---
 
-## 📌 **Current Projects**
-🔹 **Multi-Agent Orchestration**: Implementing AI-driven workflow automation using Langraph.  
-🔹 **GraphQL API for BOQ Data**: Structuring data for analytics & aggregation in MongoDB.  
-🔹 **Cloud Function Optimization**: Improving performance in Firebase & MongoDB-based APIs.  
-
----
-
 ## 🌱 **Learning & Interests**
-- Advanced **Data Structures & Algorithms** with TypeScript.
 - **Langraph** for multi-agent automation.
-- Scalable **GraphQL & RESTful API Design**.
+- Scalable **RESTful API Design**.
 
 ---
 
@@ -38,13 +30,12 @@ I'm a passionate developer with expertise in **TypeScript, Node.js, Express, Mon
 
 ---
 
-## 📫 **Let's Connect!**
+## 📫 **Find me:**
 - 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aakash-bhardwaj-855592213/)
 
 ---
 
 ⭐ **Fun Fact**: I enjoy solving complex backend challenges & automating workflows! 🚀  
-💬 **Feel free to reach out for collaborations, open-source contributions, or tech discussions.**
 
 ---
 
